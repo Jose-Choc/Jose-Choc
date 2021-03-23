@@ -13,4 +13,9 @@
  Framework Codeigniter, manejo de JavaScript con ECMS6, Framework Angular 11, Vue, python básico
  ~~~
 ## *EDUCACIÓN*
-
+### Universidad San Carlos de Guatemala
++ *6to. Semestre en Ingeniería Sistema*
+### ITEC-PROESUR Universidad Del Valle de Guatemala
++ *Bachillerato en Ciencias y Letras*
+### INTECAP
++ *6 Certificado en electrónica y Electricidad.*
