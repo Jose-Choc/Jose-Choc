@@ -1,2 +1,3 @@
-# **CURRICULUM VITAE**
-## Nombre: José Choc Coc
+# **JOsÉ CHOC COC**
+## *CONTACTO*
+-Email: *chokjosekok@gmail.com*
