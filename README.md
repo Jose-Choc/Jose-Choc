@@ -1,2 +1,2 @@
--CURRICULUM VITAE
--Nombre: José Choc Coc
+# **CURRICULUM VITAE**
+## Nombre: José Choc Coc
