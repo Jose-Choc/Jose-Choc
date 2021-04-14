@@ -1,6 +1,7 @@
 # **JOSÉ CHOC COC**
 ## *CONTACTO*
 + Email: *chokjosekok@gmail.com*
++ LinkedIn: *linkedin.com/in/josé-choc-880b9959*
 + Nacionalidad: *guatemalteco*
 + Edad: *27 años*
 ## *EXPERIENCIA Y CONOCIMIENTO*
