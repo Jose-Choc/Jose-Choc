@@ -1,7 +1,6 @@
 # **JOSÉ CHOC COC**
 ## *CONTACTO*
 + Email: *chokjosekok@gmail.com*
-+ Telefono: *42493053*
 + Nacionalidad: *guatemalteco*
 + Edad: *27 años*
 ## *EXPERIENCIA Y CONOCIMIENTO*
