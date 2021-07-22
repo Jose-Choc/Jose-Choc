@@ -15,7 +15,7 @@
  ~~~
 ## *EDUCACIÓN*
 ### Universidad San Carlos de Guatemala
-+ *6to. Semestre en Ingeniería Sistema*
++ *6to. Semestre en Ingeniería*
 ### ITEC-PROESUR Universidad Del Valle de Guatemala
 + *Bachillerato en Ciencias y Letras*
 ### INTECAP
