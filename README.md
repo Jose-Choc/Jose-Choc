@@ -6,16 +6,16 @@
 + Edad: *28 años*
 + Idioma: Español
 ## *EXPERIENCIA Y CONOCIMIENTO*
-+ Periodo: *2021-2022*:
++ Periodo: *2021-2022*: *INFOM*
  ~~~
  Desarrollo de diferentes aplicaciones en una PHP SYMFONY, NET CORE, VB.NET, C#, migraciones de proyecto a las
  versiones más actualizados, soporte de aplicaciones ya existente y desarrollo de nuevas aplicaciones e integraciones
  de nuevos módulos y funcionalidades las aplicaciones existente, lanzamiento de proyecto de desarrollo a producción,
- configuraciones de distintos servidores web tales como XAMPP, WAMP64, IS y certificadores https, certificadores de 
+ configuraciones de distintos servidores web tales como XAMPP, WAMP64, IIS y certificadores https, certificadores de 
  de documentos, configuraciones de consumo masivo e individuales los servicios SOAP, REST, Facturas FEL, SMTP en las
  aplicaciones desarrollada y las existentes, montaje y configuraciones de servidores en AZURE y DOCKER CONTAINER.
  ~~~
- + Periodo: *2018-2020*: 
+ + Periodo: *2018-2020*: *CIV*
  ~~~
  Desarrollo de diferentes aplicaciones en una unidad ejecutora del Ministerio de Comunicaciones de Guatemala,
  montaje de servidores de base de datos, montaje de servidor de correo, configuraciones de dns, registro de 
