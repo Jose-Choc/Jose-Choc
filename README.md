@@ -15,7 +15,7 @@
  de documentos, configuraciones de consumo masivo e individuales los servicios SOAP, REST, Facturas FEL, SMTP en las
  aplicaciones desarrollada y las existentes, montaje y configuraciones de servidores en AZURE y DOCKER CONTAINER.
  ~~~
- + Periodo: *2018-2020*: *CIV*
+ + Periodo: *2018-2021*: *CIV*
  ~~~
  Desarrollo de diferentes aplicaciones en una unidad ejecutora del Ministerio de Comunicaciones de Guatemala,
  montaje de servidores de base de datos, montaje de servidor de correo, configuraciones de dns, registro de 
