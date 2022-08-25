@@ -3,7 +3,7 @@
 + Email: *chokjosekok@gmail.com*
 + LinkedIn: *linkedin.com/in/josé-choc-880b9959*
 + Nacionalidad: *guatemalteco*
-+ Edad: *27 años*
++ Edad: *28 años*
 + Idioma: Español
 ## *EXPERIENCIA Y CONOCIMIENTO*
 + Periodo: *2018-2020*: 
