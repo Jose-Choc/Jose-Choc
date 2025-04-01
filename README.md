@@ -31,8 +31,8 @@
 ### INTECAP
 + *6 Certificado en electrónica y Electricidad.*
 ### DIPLOMAS
-+ *PowerBI y excel avanzado en INTECAP
-+ *React UDEMY
-+ *SQL SERVER UDEMY
-+ *.NET UDEMY
-+ *Angular UDEMY
++ *PowerBI y excel avanzado en INTECAP*
++ *React UDEMY*
++ *SQL SERVER UDEMY*
++ *.NET UDEMY*
++ *Angular UDEMY*
