@@ -30,7 +30,7 @@
 + *Bachillerato en Ciencias y Letras*
 ### INTECAP
 + *6 Certificado en electrónica y Electricidad.*
-## DIPLOMAS
+### DIPLOMAS
 + *PowerBI y excel avanzado en INTECAP
 + *React UDEMY
 + *SQL SERVER UDEMY
