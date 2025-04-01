@@ -3,10 +3,10 @@
 + Email: *chokjosekok@gmail.com*
 + LinkedIn: *linkedin.com/in/josé-choc-880b9959*
 + Nacionalidad: *guatemalteco*
-+ Edad: *28 años*
++ Edad: *30 años*
 + Idioma: Español
 ## *EXPERIENCIA Y CONOCIMIENTO*
-+ Periodo: *2021-2022*: *INFOM*
++ Periodo: *2021-2025*: *INFOM*
  ~~~
  Desarrollo de diferentes aplicaciones en una PHP SYMFONY, NET CORE, VB.NET, C#, migraciones de proyecto a las
  versiones más actualizados, soporte de aplicaciones ya existente y desarrollo de nuevas aplicaciones e integraciones
@@ -25,8 +25,14 @@
   ~~~
 ## *EDUCACIÓN*
 ### Universidad San Carlos de Guatemala
-+ *6to. Semestre en Ingeniería*
++ *9no. Semestre en Ingeniería*
 ### ITEC-PROESUR Universidad Del Valle de Guatemala
 + *Bachillerato en Ciencias y Letras*
 ### INTECAP
 + *6 Certificado en electrónica y Electricidad.*
+## DIPLOMAS
++ *PowerBI y excel avanzado en INTECAP
++ *React UDEMY
++ *SQL SERVER UDEMY
++ *.NET UDEMY
++ *Angular UDEMY
