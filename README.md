@@ -55,11 +55,11 @@
 ## HABILIDADES TÉCNICAS
 
 ### *LENGUAJE DE PROGRAMACION*
-+ *C#
-+ *Patrones de Diseño de Software C#
-+ *Diseño de UML
-+ *Diseño DDL en PHP
-+ *JavaScript
++ *C#*
++ *Patrones de Diseño de Software C#*
++ *Diseño de UML*
++ *Diseño DDL en PHP*
++ *JavaScript*
 ### *Bases de Datos*
 + *SQL SERVER*
 + *ORACLE 11G*
