@@ -3,33 +3,46 @@
 + Email: *chokjosekok@gmail.com*
 + LinkedIn: *linkedin.com/in/josé-choc-880b9959*
 + Nacionalidad: *guatemalteco*
-+ Edad: *30 años*
++ Edad: *31 años*
 + Idioma: Español
 ## *EXPERIENCIA Y CONOCIMIENTO*
-+ Periodo: *2021-2025*: *INFOM*
- ~~~
- Desarrollo de diferentes aplicaciones en una PHP SYMFONY, NET CORE, VB.NET, C#, migraciones de proyecto a las
- versiones más actualizados, soporte de aplicaciones ya existente y desarrollo de nuevas aplicaciones e integraciones
- de nuevos módulos y funcionalidades las aplicaciones existente, lanzamiento de proyecto de desarrollo a producción,
- configuraciones de distintos servidores web tales como XAMPP, WAMP64, IIS y certificadores https, certificadores de 
- de documentos, configuraciones de consumo masivo e individuales los servicios SOAP, REST, Facturas FEL, SMTP en las
- aplicaciones desarrollada y las existentes, montaje y configuraciones de servidores en AZURE y DOCKER CONTAINER.
- ~~~
- + Periodo: *2018-2021*: *CIV*
- ~~~
- Desarrollo de diferentes aplicaciones en una unidad ejecutora del Ministerio de Comunicaciones de Guatemala,
- montaje de servidores de base de datos, montaje de servidor de correo, configuraciones de dns, registro de 
- dominio y subdominio, configuraciones de active directory, configuraciones básica de red con mikrotik, configuraciones 
- báisca de planta telefónica alcatel lucent, manejo de lenguaje de programación C#, VB, PHP, Framework Laravel, 
- Framework Codeigniter, manejo de JavaScript con ECMS6, Framework Angular 11, Vue, python básico, manejo de Git
-  ~~~
+### Periodo: *2021-2025*: *INFOM* (4 años)
++ *Desarrollo de nuevos sistemas para control administrativos con comunicaciones con servicios de bancos, SAT y finanzas, utilizando tecnología de API Rest y Soap para la comunicación y OAuth 2.0 para la autenticación.*
++ *Desarrollo e implementación de nuevos módulos o funcionamientos para extender nuevas funcionalidades a sistemas en producción en lenguajes Js, PHP y C#.*
++ *Automatizaciones de tarea en background con PL-SQL Transacciones.*
++ *Creaciones de manuales de usuario y capacitación de usuarios operadores del sistema.*
++ *Despliegue de aplicaciones a producción en servidores web (IIS, WAMP, XAMP).*
++ *Creaciones de test de funcionalidades e integración con Selenium y calidad de código con SonarQube.*
++ *Creación de repositorio de versionamiento con Git.*
++ *Creación de reportes con Crystal Reports, ITextSharp, FPDF.*
++ *Creación de documentaciones técnica.*
++ *Automatización de operaciones y carga masiva de informaciones.*
++ *Migraciones y actualizaciones del frameworks y base de datos.*
++ *Despliegue e integraciones de cambios automatizados con pipelines y Devops Azure.*
++ *Mantenimiento y respaldo automatizado de la base de datos de los sistemas informáticos.*
++ *Soporte técnico y mantenimiento de las distintas funcionalidades del sistema.*
+
+### Periodo: *2018-2021*: *CIV* (4 años)
++ *Análisis de información del sistema informática*
++ *Desarrollo de aplicaciones de control de expediente y supervisión de los cables operadores, aplicaciones para el control de gastos de la institución.*
++ *Levantar requerimiento para las mejoras del sistema informática.*
++ *Mantenimiento del existente e integración de nuevas aplicaciones y módulos al sistema existente.*
++ *Creación de nuevos sistemas.*
++ *Apoyar y entender consulta y reclamos de usuarios locales*
++ *Creación de manuales y capacitación de los usuarios.*
++ *Administración de sistemas, servidores web (Windows Server).*
++ *Configuraciones de IP pública y DNS.*
++ *Administración y configuraciones de la política de firewall.*
++ *Configuraciones y administraciones de Redes de la institución.*
++ *Administración y configuraciones de Planta telefónica*
+  
 ## *EDUCACIÓN*
 ### Universidad San Carlos de Guatemala
 + *Pensum Cerrado en Ingeniería Industrial*
 ### ITEC-PROESUR Universidad Del Valle de Guatemala
 + *Bachillerato en Ciencias y Letras*
 ### INTECAP
-+ *2 Certificado en electrónica y Electricidad.*
++ *4 Certificado en electrónica y Electricidad.*
 + *2 Certificado en PLC.*
 + *2 Certificado en MetalMecanica*
 ### DIPLOMAS
