@@ -51,3 +51,54 @@
 + *SQL SERVER UDEMY*
 + *.NET UDEMY*
 + *Angular UDEMY*
+
+## HABILIDADES TÉCNICAS
+
+### *LENGUAJE DE PROGRAMACION*
++ *C#
++ *Patrones de Diseño de Software C#
++ *Diseño de UML
++ *Diseño DDL en PHP
++ *JavaScript
+### *Bases de Datos*
++ *SQL SERVER*
++ *ORACLE 11G*
++ *MYSQL*
++ *procedimientos almacenados*
++ *Disparadores (Triggers)*
++ *Cursores*
++ *Transacciones*
++ *Funciones tipo escalares, tabla y agregadas*
+  
+### *Frameworks*
++ LINQ*
++ *Entity Framework*
++ *Asp.net*
++ *Net core*
++ *Windows Form*
++ *Blazor*
++ *Laravel*
++ *Symfony*
++ *Codeigniter*
++ *Angular*
++ *Crystal Reports*
++ *Identity server*
++ *React, Angular, Vue*
+### *Otras Software*
++ *Power BI*
++ *Excel*
++ *MS ACCESS*
+
+### *Arquitecturas*
++ *MCV*
++ *NCapas*
++ *API Rest*
++ *Microservicios*
++ *Windows Comunication Fundation (SOAP)*
++ *Despliegue Windows server y Linux Debian*
++ *Docker*
++ Azure*
++ AWS*
+### *Metodologías de trabajo*
++ *Scrum*
++ *Jira*
