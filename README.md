@@ -25,11 +25,13 @@
   ~~~
 ## *EDUCACIÓN*
 ### Universidad San Carlos de Guatemala
-+ *9no. Semestre en Ingeniería*
++ *Pensum Cerrado en Ingeniería Industrial*
 ### ITEC-PROESUR Universidad Del Valle de Guatemala
 + *Bachillerato en Ciencias y Letras*
 ### INTECAP
-+ *6 Certificado en electrónica y Electricidad.*
++ *2 Certificado en electrónica y Electricidad.*
++ *2 Certificado en PLC.*
++ *2 Certificado en MetalMecanica*
 ### DIPLOMAS
 + *PowerBI y excel avanzado en INTECAP*
 + *React UDEMY*
